@@ -25,6 +25,6 @@ https://github.com/bootmortis/iran-hosted-domains/releases/latest/download/forti
 
 5. Set 'Iran Advertisement URLs' to 'Redirect to Block Portal' to block ads through FortiGate.
 
-![fortinet block ads](_images/fortinet-block-ads.png
+![fortinet block ads](_images/fortinet-block-ads.png)
 
 Keep in mind that with this method, you are blocking ads while all other sites remain allowed (provided you haven't set any other DNS filter). However, by using 'fortinet_domainset_other.txt' and adding it as another external connector, you will be able to manage all other Iranian websites according to your needs.
